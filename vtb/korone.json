@@ -1,0 +1,67 @@
+{
+  "name": "Korone Ch. 戌神ころね",
+  "avater": "https://yt3.ggpht.com/ytc/AAUvwnimjdERaJDGopfH8UaB0r9tr_p8uyuEWWyYVkAd5Q=s88-c-k-c0x00ffffff-no-rj",
+  "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q/",
+  "gameplays": [
+    {
+      "date": "2019/04/13",
+      "title": "【#戌神ころね初配信】！！！！はじめまして！！！！【ホロライブ/新人Vtuber】",
+      "url": "https://www.youtube.com/watch?v=Qap7HFEx_oM",
+      "game": {
+        "id": 1,
+        "name": "Splatoon 2",
+        "release_date": "2017/07/21"
+      }
+    },
+    {
+      "date": "2019/04/16",
+      "title": "【#塩パン】シオン先生に教わる初めてのマイクラ【ホロライブ/新人Vtuber】",
+      "url": "https://www.youtube.com/watch?v=A0tkkFKSSTg",
+      "game": {
+        "id": 2,
+        "name": "Minecraft",
+        "release_date": "2009/05/17"
+      }
+    },
+    {
+      "date": "2019/04/20",
+      "title": "【#塩パン】シオン先生に教わる２回目のマイクラ【ホロライブ/新人Vtuber】",
+      "url": "https://www.youtube.com/watch?v=XIXjrxe_vGk",
+      "game": {
+        "id": 2,
+        "name": "Minecraft",
+        "release_date": "2009/05/17"
+      }
+    },
+    {
+      "date": "2019/05/27",
+      "title": "【上手くなりたい】おひさしゅうスプラトゥーン【ホロライブ/戌神ころね",
+      "url": "https://www.youtube.com/watch?v=khC9KZ8mzyo",
+      "game": {
+        "id": 1,
+        "name": "Splatoon 2",
+        "release_date": "2017/07/21"
+      }
+    },
+    {
+      "date": "2019/07/08",
+      "title": "【スプラ】Ｓ＋目指すぞ！！！！！！！【ホロライブ/戌神ころね】",
+      "url": "https://www.youtube.com/watch?v=lbS3Sq10WII",
+      "game": {
+        "id": 1,
+        "name": "Splatoon 2",
+        "release_date": "2017/07/21"
+      }
+    },
+    {
+      "date": "2019/07/17",
+      "title": "【60 Seconds!】私の余命は６０秒です【ホロライブ/戌神ころね",
+      "url": "https://www.youtube.com/watch?v=BR3NlLERpzE",
+      "game": {
+        "id": 3,
+        "name": "60 Seconds!",
+        "release_date": "2015/05/25"
+      }
+    }
+  ]
+}

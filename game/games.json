@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Splatoon 2",
+    "release_date": "2017/07/21"
+  },
+  {
+    "id": 2,
+    "name": "Minecraft",
+    "release_date": "2009/05/17"
+  },
+  {
+    "id": 3,
+    "name": "60 Seconds!",
+    "release_date": "2015/05/25"
+  }
+]
